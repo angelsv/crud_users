@@ -28,7 +28,7 @@
     </script>
 
     <title>{{ config('app.name', 'CRUD Users') }}</title>
-    <link href="https://www.fiduagraria.gov.co/images/favicon.jpg" rel="shortcut icon" type="image/vnd.microsoft.icon">
+    <link href="https://www.php.net/favicon.ico?v=2" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
